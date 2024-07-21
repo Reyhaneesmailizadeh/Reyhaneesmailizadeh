@@ -1,9 +1,9 @@
 ## About Me
 I am a techno geek enthusiastic about Machine Learning, Artificial Intelligense, and Medical Image Analysis.
 <div align="center">
-  <img width="200" align="right" height="200" src="https://github-readme-stats.vercel.app/api?username=Reyhaneesmailizadeh&show_icons=true&theme=vision-friendly-dark">
-  <img width="200" align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyhaneesmailizadeh&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-  <img width="50%"  align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=Reyhaneesmailizadeh&count_private=true&" alt="Reyhaneesmailizadeh" />
+  <img width="33%" align="right" height="200" src="https://github-readme-stats.vercel.app/api?username=Reyhaneesmailizadeh&show_icons=true&theme=vision-friendly-dark">
+  <img width="33%" align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyhaneesmailizadeh&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="33%"  align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=Reyhaneesmailizadeh&count_private=true&theme=vision-friendly-dark" alt="Reyhaneesmailizadeh" />
 </div>
 
 
