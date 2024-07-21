@@ -1,5 +1,5 @@
 ## About Me
-👩‍💻 I am a techno geek enthusiastic about Machine Learning, Artificial Intelligense, and Medical Image Analysis.
+👩‍💻 A techno geek who is enthusiastic about Machine Learning, Artificial Intelligense, and Medical Image Analysis.
 
 📩 Provided you have any question, contact me via my email: reyhaneh.esmailizadeh.ut@gmail.com
 . If you find any material helpful, dont forget to star!🌟
