@@ -7,10 +7,6 @@ I am a techno geek enthusiastic about Machine Learning, Artificial Intelligense,
  
 
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Reyhaneesmailizadeh&style=for-the-badge&color=orange" alt=""/>
-</div>
-
 
 <!--
 **Reyhaneesmailizadeh/Reyhaneesmailizadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
