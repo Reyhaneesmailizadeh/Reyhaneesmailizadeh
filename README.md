@@ -1,7 +1,8 @@
 ## About Me
 I am a techno geek enthusiastic about Machine Learning, Artificial Intelligense, and Medical Image Analysis.
-<p align="right">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Reyhaneesmailizadeh&show_icons=true&theme=vision-friendly-dark">
+<p align="center">
+  <img width="600" align="right" height="200" src="https://github-readme-stats.vercel.app/api?username=Reyhaneesmailizadeh&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyhaneesmailizadeh&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
 <p align="left">
