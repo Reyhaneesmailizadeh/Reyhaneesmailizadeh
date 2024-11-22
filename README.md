@@ -1,7 +1,7 @@
 ## About Me
-👩‍💻 A tech geek enthusiastic about exploring the intersections of various sciences.
+👩‍💻 A tech geek who is currently studying Engieerning Science at University of Tehran.
 
-📩 Provided you have any question, contact me via my email: reyhaneh.esmailizadeh.ut@gmail.com
+📩 Provided you have any question or research opportunities, contact me via my email: reyhaneh.esmailizadeh.ut@gmail.com
 . If you find any material helpful, dont forget to star!🌟
 <div align="center">
 <!--   <img width="33%" align="right" height="200" src="https://github-readme-stats.vercel.app/api?username=Reyhaneesmailizadeh&show_icons=true&theme=vision-friendly-dark"> -->
