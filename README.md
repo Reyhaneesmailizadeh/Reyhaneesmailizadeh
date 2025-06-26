@@ -1,5 +1,5 @@
 ## About Me
-👩‍💻 A tech geek who is currently studying Engieerning Science at University of Tehran.
+👩‍💻 A tech geek who is currently studying Software Engineering Specialization of Engieerning Sciences at University of Tehran.
 
 📩 Provided you have any question or research opportunities, contact me via my email: reyhaneh.esmailizadeh.ut@gmail.com
 . If you find any material helpful, dont forget to star!🌟
