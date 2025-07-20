@@ -5,6 +5,9 @@
 . If you find any material helpful, dont forget to star!🌟
 
 ⚡ You can find the grades of the courses I completed on my LinkedIn page: https://www.linkedin.com/in/reyhane-esmailizadeh
+
+🔭 My personal page: https://reyhaneesmailizadeh.github.io/
+
 <div align="center">
 <!--   <img width="33%" align="right" height="200" src="https://github-readme-stats.vercel.app/api?username=Reyhaneesmailizadeh&show_icons=true&theme=vision-friendly-dark"> -->
   <img width="40%" align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyhaneesmailizadeh&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
